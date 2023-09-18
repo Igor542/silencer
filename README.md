@@ -2,7 +2,7 @@
 
 A Telegram bot that translates audio messages into text.
 
-It is based on a [Transformers-based Whisper model](https://huggingface.co/openai/whisper-medium) via [a thin wrapper](https://github.com/Igor542/speech2text) and can translate audio messages to a different language.
+The bot is based on a [Transformers-based Whisper model](https://huggingface.co/openai/whisper-medium) via [a thin wrapper](https://github.com/Igor542/speech2text) and can translate audio messages to a different language.
 
 ## Usage
 
